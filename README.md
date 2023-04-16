@@ -10,7 +10,7 @@ This repository contains programs fixed, proposed by Holberton, written in C, Py
 
 ## Author :black_nib:
 
-* **Raymond Lukwago** <[arvicrin](https://github.com/lukwagoraymond)>
+* **Raymond Lukwago** <[lukwagoraymond](https://github.com/lukwagoraymond)>
 
 ## Acknowledgements :pray:
 
